@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "652733963562",
+    "firebase_url": "https://fir-register-db8c6.firebaseio.com",
+    "project_id": "fir-register-db8c6",
+    "storage_bucket": "fir-register-db8c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652733963562:android:c10328047362c0e4dc1253",
+        "android_client_info": {
+          "package_name": "com.ebraam.dimofinf_camera_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652733963562-ohe9or4cv0sfh8d29obgp1s6fvbkhlrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebraam.dimofinf_camera_app",
+            "certificate_hash": "9d20bbe8cc5720646182ee95a9dd2ce38ada36b5"
+          }
+        },
+        {
+          "client_id": "652733963562-m5bgkocl98lu39bnuhjokgbiae2o3cbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo7fklpQMQgAS7RXER3pXW2kZ3nr2FoGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652733963562-m5bgkocl98lu39bnuhjokgbiae2o3cbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
